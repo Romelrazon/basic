@@ -1,0 +1,37 @@
+.h2 {
+    font-family: Geogoria; 
+    color:#375e97 ;
+    font-size: 2em;
+    border-bottom: 5px dotted;
+    
+    
+}
+.title
+{
+    color :#999999;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+.Contact {
+font-style: italic;
+font-weight: bold;
+font-size: 1.5em;
+
+}
+
+
+.div
+{
+    background-color: #eeeeee;
+    border-color:purple;
+    border-style: solid;
+}
+.romelrazon :hover {
+    color:#82b8de;
+    background-color: #2b99e6 ;  
+     text-decoration: none;
+ 
+}
+.romelrazon :active{
+    color:#82b8de;
+}
